@@ -113,7 +113,9 @@ p {
     text-align: center;
   }
 
-  .img {
+  .yoga-project,
+  .yogurt-project,
+  .wearther-app-project {
     display: none;
   }
 }
