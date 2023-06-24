@@ -112,10 +112,4 @@ p {
   .special-heading {
     text-align: center;
   }
-
-  .yoga-project,
-  .yogurt-project,
-  .wearther-app-project {
-    display: none;
-  }
 }
