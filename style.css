@@ -112,9 +112,4 @@ p {
   .special-heading {
     text-align: center;
   }
-  .project-link {
-    display: block;
-    text-align: center;
-    margin: 0 20px;
-  }
 }
