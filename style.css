@@ -113,7 +113,7 @@ p {
     text-align: center;
   }
 
-  .img {
+  .img-fluid rounded {
     display: none;
   }
 }
